@@ -1,0 +1,28 @@
+{
+  "Docs": [
+    {
+      "id": 1,
+      "createdOn": "2022-02-14T20:49:58",
+      "docType_Ar": "وارد",
+      "docType_En": "Incoming",
+      "subject": "موضوع رساله",
+      "serial": 1,
+      "year": 2022,
+      "docTypeID": 1,
+      "createdBy": "hisham",
+      "docDate": "2022-02-14T20:49:58"
+    },
+    {
+      "id": 2,
+      "createdOn": "2022-02-15T16:45:28",
+      "docType_Ar": "صادر",
+      "docType_En": "Outgoing",
+      "subject": "sub 2",
+      "serial": 2,
+      "year": 2022,
+      "docTypeID": 2,
+      "createdBy": "hisham",
+      "docDate": "2022-02-15T16:45:28"
+    }
+  ]
+}
