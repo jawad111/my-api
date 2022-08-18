@@ -1,0 +1,23 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "description": "Json Server Api for testing Applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawad111/my-api.git"
+  },
+  "author": "Jawad Bhatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawad111/my-api/issues"
+  },
+  "homepage": "https://github.com/jawad111/my-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
